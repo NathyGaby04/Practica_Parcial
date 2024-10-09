@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\Pagos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE3A248-54D1-47A3-8701-606DDB4FDF85}|asp_servicios\\asp_servicios.csproj|c:\\users\\usuario\\source\\repos\\pagos\\asp_servicios\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE3A248-54D1-47A3-8701-606DDB4FDF85}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE3A248-54D1-47A3-8701-606DDB4FDF85}|asp_servicios\\asp_servicios.csproj|c:\\users\\usuario\\source\\repos\\pagos\\asp_servicios\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE3A248-54D1-47A3-8701-606DDB4FDF85}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE3A248-54D1-47A3-8701-606DDB4FDF85}|asp_servicios\\asp_servicios.csproj|c:\\users\\usuario\\source\\repos\\pagos\\asp_servicios\\nucleo\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE3A248-54D1-47A3-8701-606DDB4FDF85}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\nucleo\\pagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE3A248-54D1-47A3-8701-606DDB4FDF85}|asp_servicios\\asp_servicios.csproj|c:\\users\\usuario\\source\\repos\\pagos\\asp_servicios\\nucleo\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE3A248-54D1-47A3-8701-606DDB4FDF85}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\nucleo\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE3A248-54D1-47A3-8701-606DDB4FDF85}|asp_servicios\\asp_servicios.csproj|c:\\users\\usuario\\source\\repos\\pagos\\asp_servicios\\asp_servicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EE3A248-54D1-47A3-8701-606DDB4FDF85}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\asp_servicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE3A248-54D1-47A3-8701-606DDB4FDF85}|asp_servicios\\asp_servicios.csproj|c:\\users\\usuario\\source\\repos\\pagos\\asp_servicios\\migrations\\20241009024454_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE3A248-54D1-47A3-8701-606DDB4FDF85}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\migrations\\20241009024454_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE3A248-54D1-47A3-8701-606DDB4FDF85}|asp_servicios\\asp_servicios.csproj|c:\\users\\usuario\\source\\repos\\pagos\\asp_servicios\\nucleo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE3A248-54D1-47A3-8701-606DDB4FDF85}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\nucleo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241009024454_Migration1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Pagos\\asp_servicios\\Migrations\\20241009024454_Migration1.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Migrations\\20241009024454_Migration1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Pagos\\asp_servicios\\Migrations\\20241009024454_Migration1.cs",
+              "RelativeToolTip": "asp_servicios\\Migrations\\20241009024454_Migration1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T02:44:55.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Pagos\\asp_servicios\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Pagos\\asp_servicios\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\PersonasController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:30:35.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Pagos\\asp_servicios\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\PagosController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Pagos\\asp_servicios\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\PagosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:30:01.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "asp_servicios",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Pagos\\asp_servicios\\asp_servicios.csproj",
+              "RelativeDocumentMoniker": "asp_servicios\\asp_servicios.csproj",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Pagos\\asp_servicios\\asp_servicios.csproj",
+              "RelativeToolTip": "asp_servicios\\asp_servicios.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T01:22:27.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personas.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Pagos\\asp_servicios\\Nucleo\\Personas.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Nucleo\\Personas.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Pagos\\asp_servicios\\Nucleo\\Personas.cs",
+              "RelativeToolTip": "asp_servicios\\Nucleo\\Personas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:22:19.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pagos.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Pagos\\asp_servicios\\Nucleo\\Pagos.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Nucleo\\Pagos.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Pagos\\asp_servicios\\Nucleo\\Pagos.cs",
+              "RelativeToolTip": "asp_servicios\\Nucleo\\Pagos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:22:06.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\Pagos\\asp_servicios\\Nucleo\\Conexion.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Nucleo\\Conexion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\Pagos\\asp_servicios\\Nucleo\\Conexion.cs",
+              "RelativeToolTip": "asp_servicios\\Nucleo\\Conexion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:21:46.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
